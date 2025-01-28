@@ -1,0 +1,2912 @@
+﻿[CustomCards]
+	[	{
+			"name": "Fog-Shrouded Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/21_Fog-Shrouded Guardian.png"
+			}
+		},
+		{
+			"name": "Phantom Pursuers",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Horror Spirit ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/35_Phantom Pursuers.png"
+			}
+		},
+		{
+			"name": "Demon Child",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Horror ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/16_Demon Child.png"
+			}
+		},
+		{
+			"name": "Orderly Apparition",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit Advisor ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/32_Orderly Apparition.png"
+			}
+		},
+		{
+			"name": "Lakeside Stalker",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Horror Spirit ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/29_Lakeside Stalker.png"
+			}
+		},
+		{
+			"name": "Parkside Haunter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Horror ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/33_Parkside Haunter.png"
+			}
+		},
+		{
+			"name": "Grabby Grey Child",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Horror ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/22_Grabby Grey Child.png"
+			}
+		},
+		{
+			"name": "Whispering Resurgence",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/38_Whispering Resurgence.png"
+			}
+		},
+		{
+			"name": "Grey Child Horde",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Horror ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/23_Grey Child Horde.png"
+			}
+		},
+		{
+			"name": "Cunning Stalker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Horror Lizard ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/12_Cunning Stalker.png"
+			}
+		},
+		{
+			"name": "Kaufmann, Cult Healer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/27_Kaufmann, Cult Healer.png"
+			}
+		},
+		{
+			"name": "Alessa's Projection",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Spirit ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/7_Alessa's Projection.png"
+			}
+		},
+		{
+			"name": "Empty Bird Cage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Clue ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/19_Empty Bird Cage.png"
+			}
+		},
+		{
+			"name": "Drag to Nowhere",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/18_Drag to Nowhere.png"
+			}
+		},
+		{
+			"name": "Rejecting Force Shield",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/36_Rejecting Force Shield.png"
+			}
+		},
+		{
+			"name": "Steel Pipe",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/248_Steel Pipe.png"
+			}
+		},
+		{
+			"name": "Disinfecting Alcohol",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue ",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/235_Disinfecting Alcohol.png"
+			}
+		},
+		{
+			"name": "Cheryl, Lost in the Fog",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/10_Cheryl, Lost in the Fog.png"
+			}
+		},
+		{
+			"name": "Cybil, Watchful Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/13_Cybil, Watchful Marshal.png"
+			}
+		},
+		{
+			"name": "Lisa, Devoted Caretaker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/30_Lisa, Devoted Caretaker.png"
+			}
+		},
+		{
+			"name": "Diligent Physician",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit Cleric ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/17_Diligent Physician.png"
+			}
+		},
+		{
+			"name": "Soul Seekers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/37_Soul Seekers.png"
+			}
+		},
+		{
+			"name": "Kaufmann's Stance",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/28_Kaufmann's Stance.png"
+			}
+		},
+		{
+			"name": "Healing Ampoule",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Clue ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/25_Healing Ampoule.png"
+			}
+		},
+		{
+			"name": "Cheryl's Lament",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/11_Cheryl's Lament.png"
+			}
+		},
+		{
+			"name": "Fishing with Magnets",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/20_Fishing with Magnets.png"
+			}
+		},
+		{
+			"name": "Ethereal Screecher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/52_Ethereal Screecher.png"
+			}
+		},
+		{
+			"name": "Mistifying Fog",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wall Illusion ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/62_Mistifying Fog.png"
+			}
+		},
+		{
+			"name": "Foggy Mirage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/53_Foggy Mirage.png"
+			}
+		},
+		{
+			"name": "Whiffling Air Screamer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/77_Whiffling Air Screamer.png"
+			}
+		},
+		{
+			"name": "Morgue Sleeper",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Zombie ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/63_Morgue Sleeper.png"
+			}
+		},
+		{
+			"name": "Alessa's Nightmare",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/42_Alessa's Nightmare.png"
+			}
+		},
+		{
+			"name": "Chasm Entity",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Elemental ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/44_Chasm Entity.png"
+			}
+		},
+		{
+			"name": "Ghosts from the Past",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/54_Ghosts from the Past.png"
+			}
+		},
+		{
+			"name": "Plug the Drain",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/66_Plug the Drain.png"
+			}
+		},
+		{
+			"name": "Swallowed by the Fog",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/73_Swallowed by the Fog.png"
+			}
+		},
+		{
+			"name": "Scribblings in the Map",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/70_Scribblings in the Map.png"
+			}
+		},
+		{
+			"name": "Personal Inventory",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/65_Personal Inventory.png"
+			}
+		},
+		{
+			"name": "Harry's Disappearance",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/56_Harry's Disappearance.png"
+			}
+		},
+		{
+			"name": "Crossing the Chasm",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/48_Crossing the Chasm.png"
+			}
+		},
+		{
+			"name": "Show of Force",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/71_Show of Force.png"
+			}
+		},
+		{
+			"name": "Harry, Tenacious Finder",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Legendary Creature — Human  ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/55_Harry, Tenacious Finder.png"
+			}
+		},
+		{
+			"name": "Alessa, Foresight Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — SpiritWizard ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/41_Alessa, Foresight Weaver.png"
+			}
+		},
+		{
+			"name": "Kaufmann, Veiled Chemist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/58_Kaufmann, Veiled Chemist.png"
+			}
+		},
+		{
+			"name": "Summoned Night Flutter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/72_Summoned Night Flutter.png"
+			}
+		},
+		{
+			"name": "Cheryl, Conduit of Echoes",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/45_Cheryl, Conduit of Echoes.png"
+			}
+		},
+		{
+			"name": "Cybil, Roaming Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/49_Cybil, Roaming Enforcer.png"
+			}
+		},
+		{
+			"name": "Dahlia, Cult Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/50_Dahlia, Cult Seer.png"
+			}
+		},
+		{
+			"name": "Revealing Camera",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/68_Revealing Camera.png"
+			}
+		},
+		{
+			"name": "Dahlia's Scorn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/51_Dahlia's Scorn.png"
+			}
+		},
+		{
+			"name": "Pocket Flashlight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/67_Pocket Flashlight.png"
+			}
+		},
+		{
+			"name": "Through the Window",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/75_Through the Window.png"
+			}
+		},
+		{
+			"name": "Never-ending Wail",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/64_Never-ending Wail.png"
+			}
+		},
+		{
+			"name": "Lights Out",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/60_Lights Out.png"
+			}
+		},
+		{
+			"name": "Levitating Stalker",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit Horror ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/98_Levitating Stalker.png"
+			}
+		},
+		{
+			"name": "Mumbler's Ambush",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/103_Mumbler's Ambush.png"
+			}
+		},
+		{
+			"name": "Ritual's Dregs",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/109_Ritual's Dregs.png"
+			}
+		},
+		{
+			"name": "Lurking Mumbler",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/101_Lurking Mumbler.png"
+			}
+		},
+		{
+			"name": "Blade-Wielding Puppet",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/79_Blade-Wielding Puppet.png"
+			}
+		},
+		{
+			"name": "Nowhere Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Horror ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/105_Nowhere Stalker.png"
+			}
+		},
+		{
+			"name": "Hanging Corpse",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Horror ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/91_Hanging Corpse.png"
+			}
+		},
+		{
+			"name": "Mumbler Harbinger",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/102_Mumbler Harbinger.png"
+			}
+		},
+		{
+			"name": "Fogbound Marauder",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/89_Fogbound Marauder.png"
+			}
+		},
+		{
+			"name": "Sudden Chasm",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/114_Sudden Chasm.png"
+			}
+		},
+		{
+			"name": "Cybil's Treason",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/83_Cybil's Treason.png"
+			}
+		},
+		{
+			"name": "Sewer Descent",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/112_Sewer Descent.png"
+			}
+		},
+		{
+			"name": "Hidden in the Dog House",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/93_Hidden in the Dog House.png"
+			}
+		},
+		{
+			"name": "Scrambled Memories",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/111_Scrambled Memories.png"
+			}
+		},
+		{
+			"name": "Shift to the Otherworld",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/113_Shift to the Otherworld.png"
+			}
+		},
+		{
+			"name": "Otherworld Strength",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/106_Otherworld Strength.png"
+			}
+		},
+		{
+			"name": "Broken Wheelchair",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/80_Broken Wheelchair.png"
+			}
+		},
+		{
+			"name": "Lisa, Tainted Nurse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Horror Cleric ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/99_Lisa, Tainted Nurse.png"
+			}
+		},
+		{
+			"name": "Dahlia, Adept Gyromant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/85_Dahlia, Adept Gyromant.png"
+			}
+		},
+		{
+			"name": "Locker Mannequin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Zombie ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/241_Locker Mannequin.png"
+			}
+		},
+		{
+			"name": "Infected Puppet Doctor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/96_Infected Puppet Doctor.png"
+			}
+		},
+		{
+			"name": "Kaufmann, Enigmatic Apothecary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/97_Kaufmann, Enigmatic Apothecary.png"
+			}
+		},
+		{
+			"name": "Alessa, Mother of Horrors",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/78_Alessa, Mother of Horrors.png"
+			}
+		},
+		{
+			"name": "Cybil, Tormented Vessel",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Human Horror ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/82_Cybil, Tormented Vessel.png"
+			}
+		},
+		{
+			"name": "The Lizard Story",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/100_The Lizard Story.png"
+			}
+		},
+		{
+			"name": "Hulking Possessed Doctor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/94_Hulking Possessed Doctor.png"
+			}
+		},
+		{
+			"name": "Disturbing Projection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/87_Disturbing Projection.png"
+			}
+		},
+		{
+			"name": "Confession Tape",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Clue ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/81_Confession Tape.png"
+			}
+		},
+		{
+			"name": "Ritualistic Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/108_Ritualistic Axe.png"
+			}
+		},
+		{
+			"name": "Desk Carvings",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{1}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/86_Desk Carvings.png"
+			}
+		},
+		{
+			"name": "Leaving the Possessed Behind",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/133_Leaving the Possessed Behind.png"
+			}
+		},
+		{
+			"name": "Hospital Infestation",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/130_Hospital Infestation.png"
+			}
+		},
+		{
+			"name": "Canine Groaner",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dog Horror ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/119_Canine Groaner.png"
+			}
+		},
+		{
+			"name": "Summoned Presence",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/148_Summoned Presence.png"
+			}
+		},
+		{
+			"name": "Lighthouse Wormhead",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dog Horror ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/134_Lighthouse Wormhead.png"
+			}
+		},
+		{
+			"name": "Possessed Puppets",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/140_Possessed Puppets.png"
+			}
+		},
+		{
+			"name": "Ceiling Aberration",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Lizard Horror ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/120_Ceiling Aberration.png"
+			}
+		},
+		{
+			"name": "Nurse Abomination",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/138_Nurse Abomination.png"
+			}
+		},
+		{
+			"name": "Incubus' Smite",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/132_Incubus' Smite.png"
+			}
+		},
+		{
+			"name": "Parasitic Sting",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/139_Parasitic Sting.png"
+			}
+		},
+		{
+			"name": "Rise from the Wheelchair",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/143_Rise from the Wheelchair.png"
+			}
+		},
+		{
+			"name": "Cracking the Jellybeans",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/121_Cracking the Jellybeans.png"
+			}
+		},
+		{
+			"name": "Trusted Lighter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/150_Trusted Lighter.png"
+			}
+		},
+		{
+			"name": "Sudden Realization",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/147_Sudden Realization.png"
+			}
+		},
+		{
+			"name": "Crash Site Realization",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/122_Crash Site Realization.png"
+			}
+		},
+		{
+			"name": "Resort Groaner",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Dog Horror ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/141_Resort Groaner.png"
+			}
+		},
+		{
+			"name": "Alessa, Tormented Prodigy",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/115_Alessa, Tormented Prodigy.png"
+			}
+		},
+		{
+			"name": "Lisa, Tormented Carer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/136_Lisa, Tormented Carer.png"
+			}
+		},
+		{
+			"name": "Moaning Puppet",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/137_Moaning Puppet.png"
+			}
+		},
+		{
+			"name": "Unnerving Wormhead",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dog Horror ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/151_Unnerving Wormhead.png"
+			}
+		},
+		{
+			"name": "Dahlia, Cultic Visionary",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/125_Dahlia, Cultic Visionary.png"
+			}
+		},
+		{
+			"name": "Harry, Desperate Survivor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/129_Harry, Desperate Survivor.png"
+			}
+		},
+		{
+			"name": "A Splash of Aglaophotis",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/145_A Splash of Aglaophotis.png"
+			}
+		},
+		{
+			"name": "Resounding Bells",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/142_Resounding Bells.png"
+			}
+		},
+		{
+			"name": "Altar's Lighting",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/116_Altar's Lighting.png"
+			}
+		},
+		{
+			"name": "Ignite the Vines",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/131_Ignite the Vines.png"
+			}
+		},
+		{
+			"name": "Samael's Searing Mark",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/144_Samael's Searing Mark.png"
+			}
+		},
+		{
+			"name": "Emergency Hammer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/127_Emergency Hammer.png"
+			}
+		},
+		{
+			"name": "Spitting Creeper",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect Horror ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/186_Spitting Creeper.png"
+			}
+		},
+		{
+			"name": "Hallway Creeper",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Horror ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/164_Hallway Creeper.png"
+			}
+		},
+		{
+			"name": "Sewer Pest",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Horror ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/182_Sewer Pest.png"
+			}
+		},
+		{
+			"name": "Resort Romper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Monkey Horror ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/178_Resort Romper.png"
+			}
+		},
+		{
+			"name": "Pouncing Romper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Monkey Horror ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/177_Pouncing Romper.png"
+			}
+		},
+		{
+			"name": "Shaker Romper",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Monkey Horror ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/183_Shaker Romper.png"
+			}
+		},
+		{
+			"name": "Ferocious Hanged Scratcher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Lizard Horror ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/163_Ferocious Hanged Scratcher.png"
+			}
+		},
+		{
+			"name": "Looming Demon",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Lizard Horror ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/173_Looming Demon.png"
+			}
+		},
+		{
+			"name": "Sewer Attack",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/181_Sewer Attack.png"
+			}
+		},
+		{
+			"name": "Stomp it Down",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/188_Stomp it Down.png"
+			}
+		},
+		{
+			"name": "Just a Nightmare",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/168_Just a Nightmare.png"
+			}
+		},
+		{
+			"name": "Someone at the Phone",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/185_Someone at the Phone.png"
+			}
+		},
+		{
+			"name": "Salvation Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/180_Salvation Guard.png"
+			}
+		},
+		{
+			"name": "Overgrown Vine",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/176_Overgrown Vine.png"
+			}
+		},
+		{
+			"name": "Concentrated Hydrochloric Acid",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact — Clue ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/157_Concentrated Hydrochloric Acid.png"
+			}
+		},
+		{
+			"name": "Rusty Screwdriver",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/246_Rusty Screwdriver.png"
+			}
+		},
+		{
+			"name": "Innocent Cat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Cat ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/167_Innocent Cat.png"
+			}
+		},
+		{
+			"name": "Alessa, Otherworld Emissary",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/152_Alessa, Otherworld Emissary.png"
+			}
+		},
+		{
+			"name": "Cheryl, Sketch Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/156_Cheryl, Sketch Artist.png"
+			}
+		},
+		{
+			"name": "Harry, Evidence Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/165_Harry, Evidence Tracker.png"
+			}
+		},
+		{
+			"name": "Split Head",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Lizard Horror ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/187_Split Head.png"
+			}
+		},
+		{
+			"name": "Romper Monstrosity",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Monkey Horror ",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/179_Romper Monstrosity.png"
+			}
+		},
+		{
+			"name": "Cybil, Protective Officer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/160_Cybil, Protective Officer.png"
+			}
+		},
+		{
+			"name": "Lisa, Basement Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/171_Lisa, Basement Guardian.png"
+			}
+		},
+		{
+			"name": "Discovery in the Map",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/162_Discovery in the Map.png"
+			}
+		},
+		{
+			"name": "Cornering",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/158_Cornering.png"
+			}
+		},
+		{
+			"name": "Locker Surprise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/172_Locker Surprise.png"
+			}
+		},
+		{
+			"name": "Alessa's Fall",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/153_Alessa's Fall.png"
+			}
+		},
+		{
+			"name": "Careless Recollection",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/155_Careless Recollection.png"
+			}
+		},
+		{
+			"name": "Path to the Lighthouse",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/215_Path to the Lighthouse.png"
+			}
+		},
+		{
+			"name": "Balkan Church",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/252_Balkan Church.png"
+			}
+		},
+		{
+			"name": "Point of No Return",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/216_Point of No Return.png"
+			}
+		},
+		{
+			"name": "Mysterious Vial",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Artifact",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/210_Mysterious Vial.png"
+			}
+		},
+		{
+			"name": "Silent Hill Sewers",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/260_Silent Hill Sewers.png"
+			}
+		},
+		{
+			"name": "Midwich Elementary School",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/255_Midwich Elementary School.png"
+			}
+		},
+		{
+			"name": "Lakeside Amusement Park",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/253_Lakeside Amusement Park.png"
+			}
+		},
+		{
+			"name": "Alchemilla Hospital",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/249_Alchemilla Hospital.png"
+			}
+		},
+		{
+			"name": "Silent Hill Police Station",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/259_Silent Hill Police Station.png"
+			}
+		},
+		{
+			"name": "Orridge Bridge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/257_Orridge Bridge.png"
+			}
+		},
+		{
+			"name": "Grey Visitor",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Creature — Alien Scout ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/3_Grey Visitor.png"
+			}
+		},
+		{
+			"name": "Petty Knife",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/242_Petty Knife.png"
+			}
+		},
+		{
+			"name": "Plastic Bottle",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/243_Plastic Bottle.png"
+			}
+		},
+		{
+			"name": "Rusty Pliers",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/245_Rusty Pliers.png"
+			}
+		},
+		{
+			"name": "Grey Observer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Creature — Alien Pilot ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/2_Grey Observer.png"
+			}
+		},
+		{
+			"name": "Double-Barrel Shotgun",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/236_Double-Barrel Shotgun.png"
+			}
+		},
+		{
+			"name": "Police Handgun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/244_Police Handgun.png"
+			}
+		},
+		{
+			"name": "Blood Pack",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Blood ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/230_Blood Pack.png"
+			}
+		},
+		{
+			"name": "Foreboding Siren",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/238_Foreboding Siren.png"
+			}
+		},
+		{
+			"name": "Cheryl, Innocence Incarnate",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/46_Cheryl, Innocence Incarnate.png"
+			}
+		},
+		{
+			"name": "Reanimated Sinner",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Horror ",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/218_Reanimated Sinner.png"
+			}
+		},
+		{
+			"name": "Cybil Bennett, Willforger",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/196_Cybil Bennett, Willforger.png"
+			}
+		},
+		{
+			"name": "Writing it Down",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/40_Writing it Down.png"
+			}
+		},
+		{
+			"name": "Static-Filled Radio",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/146_Static-Filled Radio.png"
+			}
+		},
+		{
+			"name": "Incoming Darkness",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/95_Incoming Darkness.png"
+			}
+		},
+		{
+			"name": "A Tale of Birds without a Voice",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/74_A Tale of Birds without a Voice.png"
+			}
+		},
+		{
+			"name": "Blood on the Wall",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/118_Blood on the Wall.png"
+			}
+		},
+		{
+			"name": "The Monster Lurks",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/209_The Monster Lurks.png"
+			}
+		},
+		{
+			"name": "Alessa Gillespie, Martyr",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/190_Alessa Gillespie, Martyr.png"
+			}
+		},
+		{
+			"name": "Cut Rite's Best",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/123_Cut Rite's Best.png"
+			}
+		},
+		{
+			"name": "Dahlia Gillespie, Miko",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/197_Dahlia Gillespie, Miko.png"
+			}
+		},
+		{
+			"name": "Flauros, Dahlia's Trick",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/237_Flauros, Dahlia's Trick.png"
+			}
+		},
+		{
+			"name": "Hidden Rock Drill",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/26_Hidden Rock Drill.png"
+			}
+		},
+		{
+			"name": "Michael Kaufmann, Doctor",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/208_Michael Kaufmann, Doctor.png"
+			}
+		},
+		{
+			"name": "The Fourth Floor",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/128_The Fourth Floor.png"
+			}
+		},
+		{
+			"name": "Bloodsucker",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Leech Horror ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/192_Bloodsucker_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/192_Bloodsucker_back.png"
+				}
+			}
+		},
+		{
+			"name": "Wonderland Threshold",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/226_Wonderland Threshold.png"
+			}
+		},
+		{
+			"name": "Eerie Whisperings",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/88_Eerie Whisperings.png"
+			}
+		},
+		{
+			"name": "Alessa's Room",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/250_Alessa's Room.png"
+			}
+		},
+		{
+			"name": "Lisa Garland, Nurturer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/205_Lisa Garland, Nurturer.png"
+			}
+		},
+		{
+			"name": "Altar of Samael",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/229_Altar of Samael.png"
+			}
+		},
+		{
+			"name": "Hunting Rifle",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/239_Hunting Rifle.png"
+			}
+		},
+		{
+			"name": "Twinfeeler",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Insect Horror ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/223_Twinfeeler_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/223_Twinfeeler_back.png"
+				}
+			}
+		},
+		{
+			"name": "Parasitic Control",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/214_Parasitic Control.png"
+			}
+		},
+		{
+			"name": "Swinging the Aglaophotis",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/149_Swinging the Aglaophotis.png"
+			}
+		},
+		{
+			"name": "Nowhere Summoning",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/212_Nowhere Summoning.png"
+			}
+		},
+		{
+			"name": "Amulet of Solomon",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact — Clue ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/43_Amulet of Solomon.png"
+			}
+		},
+		{
+			"name": "Lisa's Transformation",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/207_Lisa's Transformation.png"
+			}
+		},
+		{
+			"name": "Lisa's Diary",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/240_Lisa's Diary.png"
+			}
+		},
+		{
+			"name": "Crest of Mercury",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Artifact — Clue ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/159_Crest of Mercury.png"
+			}
+		},
+		{
+			"name": "Ring of Contract",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/69_Ring of Contract.png"
+			}
+		},
+		{
+			"name": "Forgotten Truths",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/90_Forgotten Truths.png"
+			}
+		},
+		{
+			"name": "Dagger of Melchior",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact — Clue ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/84_Dagger of Melchior.png"
+			}
+		},
+		{
+			"name": "Ankh",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact — Clue ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/8_Ankh.png"
+			}
+		},
+		{
+			"name": "Room with Graffiti",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/258_Room with Graffiti.png"
+			}
+		},
+		{
+			"name": "Disk of Ouroboros",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact — Clue ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/126_Disk of Ouroboros.png"
+			}
+		},
+		{
+			"name": "Alessa, Mother of God",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Planeswalker — Alessa ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/4_Alessa, Mother of God.png"
+			}
+		},
+		{
+			"name": "Samael, Stillborn Incubus",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Demon ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/110_Samael, Stillborn Incubus.png"
+			}
+		},
+		{
+			"name": "Parting Gift",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/34_Parting Gift.png"
+			}
+		},
+		{
+			"name": "Harry Mason, Forager",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/200_Harry Mason, Forager.png"
+			}
+		},
+		{
+			"name": "Breaking the Lock",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/9_Breaking the Lock.png"
+			}
+		},
+		{
+			"name": "Oblivion Fog",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/31_Oblivion Fog.png"
+			}
+		},
+		{
+			"name": "Harry, Unfatigable Father",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/24_Harry, Unfatigable Father.png"
+			}
+		},
+		{
+			"name": "Alessa, Trapped by Nightmares",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/6_Alessa, Trapped by Nightmares.png"
+			}
+		},
+		{
+			"name": "Dahlia, Seer of Prophecy",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/15_Dahlia, Seer of Prophecy.png"
+			}
+		},
+		{
+			"name": "Lisa, Sorrowful Inquirer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/61_Lisa, Sorrowful Inquirer.png"
+			}
+		},
+		{
+			"name": "Lighthouse Apparition",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/59_Lighthouse Apparition.png"
+			}
+		},
+		{
+			"name": "Converging Fates",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/47_Converging Fates.png"
+			}
+		},
+		{
+			"name": "UFO Ending",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/76_UFO Ending.png"
+			}
+		},
+		{
+			"name": "Refrigerator Fiend",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Leech Horror ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/107_Refrigerator Fiend.png"
+			}
+		},
+		{
+			"name": "Harry, Silent Executioner",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Assassin ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/92_Harry, Silent Executioner_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/92_Harry, Silent Executioner_back.png"
+				}
+			}
+		},
+		{
+			"name": "Cybil, Possessed Host",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Horror ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/124_Cybil, Possessed Host.png"
+			}
+		},
+		{
+			"name": "Lisa, Assumed Host",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Horror Cleric ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/135_Lisa, Assumed Host.png"
+			}
+		},
+		{
+			"name": "Shrouding Entity",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/184_Shrouding Entity.png"
+			}
+		},
+		{
+			"name": "Otherworld Invasion",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/175_Otherworld Invasion.png"
+			}
+		},
+		{
+			"name": "Andy, Lost Stowaway",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/154_Andy, Lost Stowaway.png"
+			}
+		},
+		{
+			"name": "Nightmare's Awakening",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/174_Nightmare's Awakening.png"
+			}
+		},
+		{
+			"name": "Kaufmann, Restless Researcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/170_Kaufmann, Restless Researcher.png"
+			}
+		},
+		{
+			"name": "Dahlia, Keeper of the Cult",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/161_Dahlia, Keeper of the Cult.png"
+			}
+		},
+		{
+			"name": "Hyper Blaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/166_Hyper Blaster.png"
+			}
+		},
+		{
+			"name": "Channeling Stone",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/232_Channeling Stone.png"
+			}
+		},
+		{
+			"name": "Alessa's Diary",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact  — Clue ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/228_Alessa's Diary.png"
+			}
+		},
+		{
+			"name": "Emissaries of the Void",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Creature — Alien Horror ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/1_Emissaries of the Void.png"
+			}
+		},
+		{
+			"name": "Cybil's Motorcycle",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/234_Cybil's Motorcycle.png"
+			}
+		},
+		{
+			"name": "Sewer Stalking",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/222_Sewer Stalking.png"
+			}
+		},
+		{
+			"name": "Carousel Horse",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Artifact",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/193_Carousel Horse.png"
+			}
+		},
+		{
+			"name": "Crossing the Fog",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/195_Crossing the Fog.png"
+			}
+		},
+		{
+			"name": "Nowhere",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/256_Nowhere.png"
+			}
+		},
+		{
+			"name": "The Lighthouse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/254_The Lighthouse.png"
+			}
+		},
+		{
+			"name": "Twisting Lies",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/224_Twisting Lies.png"
+			}
+		},
+		{
+			"name": "Nightmares' Birth",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/211_Nightmares' Birth.png"
+			}
+		},
+		{
+			"name": "Lisa, Undying Healer",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Planeswalker — Lisa ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/206_Lisa, Undying Healer.png"
+			}
+		},
+		{
+			"name": "Schoolyard Presence",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/220_Schoolyard Presence.png"
+			}
+		},
+		{
+			"name": "Annie's Bar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/251_Annie's Bar.png"
+			}
+		},
+		{
+			"name": "Police Station Chalkboard",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/217_Police Station Chalkboard.png"
+			}
+		},
+		{
+			"name": "Terramorphic Expanse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/261_Terramorphic Expanse.png"
+			}
+		},
+		{
+			"name": "Dahlia, Illuminated",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Shaman ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/14_Dahlia, Illuminated.png"
+			}
+		},
+		{
+			"name": "Alessa, Suffering Existence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Wizard ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/5_Alessa, Suffering Existence.png"
+			}
+		},
+		{
+			"name": "Windswept Harbingers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Horror ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/39_Windswept Harbingers.png"
+			}
+		},
+		{
+			"name": "Haunting Veil",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Illusion ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/57_Haunting Veil.png"
+			}
+		},
+		{
+			"name": "Ashen Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Horror ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/117_Ashen Stalker.png"
+			}
+		},
+		{
+			"name": "Kaufmann, Cult Puppet",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/169_Kaufmann, Cult Puppet.png"
+			}
+		},
+		{
+			"name": "Channeled UFO",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/231_Channeled UFO.png"
+			}
+		},
+		{
+			"name": "Stashed Katana",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/247_Stashed Katana.png"
+			}
+		},
+		{
+			"name": "Never-ending Fog",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/104_Never-ending Fog.png"
+			}
+		},
+		{
+			"name": "Cheryl Mason, Mystifying",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/194_Cheryl Mason, Mystifying.png"
+			}
+		},
+		{
+			"name": "Highway Apparition",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Illusion ",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/201_Highway Apparition_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/201_Highway Apparition_back.png"
+				}
+			}
+		},
+		{
+			"name": "Awakening of the God",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/191_Awakening of the God_front.png"
+			},
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/191_Awakening of the God_back.png"
+				}
+			}
+		},
+		{
+			"name": "Scrapped Monstrosities",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Horror ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/221_Scrapped Monstrosities.png"
+			}
+		},
+		{
+			"name": "Chromatic Lantern",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/233_Chromatic Lantern.png"
+			}
+		},
+		{
+			"name": "The Keys for Eclipse Puzzle",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Enchantment — Case ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/203_The Keys for Eclipse Puzzle.png"
+			}
+		},
+		{
+			"name": "The Light Puzzle",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Enchantment — Case ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/204_The Light Puzzle.png"
+			}
+		},
+		{
+			"name": "The Abduction",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment — Case ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/189_The Abduction.png"
+			}
+		},
+		{
+			"name": "Getting to School",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Enchantment — Case ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/198_Getting to School.png"
+			}
+		},
+		{
+			"name": "The Grim Reaper's Puzzle",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment — Case ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/199_The Grim Reaper's Puzzle.png"
+			}
+		},
+		{
+			"name": "Kaufmann's Secret",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Enchantment — Case ",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/202_Kaufmann's Secret.png"
+			}
+		},
+		{
+			"name": "The Zodiac Puzzle",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Enchantment — Case ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/227_The Zodiac Puzzle.png"
+			}
+		},
+		{
+			"name": "Opening the Clock Tower",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Enchantment — Case ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/213_Opening the Clock Tower.png"
+			}
+		},
+		{
+			"name": "Retrieving the Dagger",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment — Case ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/219_Retrieving the Dagger.png"
+			}
+		},
+		{
+			"name": "Unveiling the Fourth Floor",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Enchantment — Case ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Jaimeblacken.github.io/sets/SH1-files/img/225_Unveiling the Fourth Floor.png"
+			}
+		},
+		]
+	[RareSlot(60)]
+	2 Foreboding Siren
+		2 Cybil Bennett, Willforger
+		2 Incoming Darkness
+		2 A Tale of Birds without a Voice
+		2 Blood on the Wall
+		2 The Monster Lurks
+		2 Alessa Gillespie, Martyr
+		2 Cut Rite's Best
+		2 Dahlia Gillespie, Miko
+		2 Flauros, Dahlia's Trick
+		2 Hidden Rock Drill
+		2 Michael Kaufmann, Doctor
+		2 Bloodsucker
+		2 Eerie Whisperings
+		2 Alessa's Room
+		2 Lisa Garland, Nurturer
+		2 Hunting Rifle
+		2 Twinfeeler
+		2 Swinging the Aglaophotis
+		2 Nowhere Summoning
+		2 Amulet of Solomon
+		2 Crest of Mercury
+		2 Ring of Contract
+		2 Dagger of Melchior
+		2 Ankh
+		2 Disk of Ouroboros
+		2 Parting Gift
+		2 Harry Mason, Forager
+		2 Oblivion Fog
+		2 Alessa, Trapped by Nightmares
+		2 Dahlia, Seer of Prophecy
+		2 Lisa, Sorrowful Inquirer
+		2 Lighthouse Apparition
+		2 Converging Fates
+		2 Refrigerator Fiend
+		2 Harry, Silent Executioner
+		2 Cybil, Possessed Host
+		2 Lisa, Assumed Host
+		2 Shrouding Entity
+		2 Otherworld Invasion
+		2 Andy, Lost Stowaway
+		2 Kaufmann, Restless Researcher
+		2 Hyper Blaster
+		2 Cybil's Motorcycle
+		2 Never-ending Fog
+		2 Cheryl Mason, Mystifying
+		2 Highway Apparition
+		2 Awakening of the God
+		2 Scrapped Monstrosities
+		2 Chromatic Lantern
+		2 The Keys for Eclipse Puzzle
+		2 The Light Puzzle
+		2 The Abduction
+		2 Getting to School
+		2 The Grim Reaper's Puzzle
+		2 Kaufmann's Secret
+		2 The Zodiac Puzzle
+		2 Opening the Clock Tower
+		2 Retrieving the Dagger
+		2 Unveiling the Fourth Floor
+		1 Cheryl, Innocence Incarnate
+		1 Reanimated Sinner
+		1 Writing it Down
+		1 Static-Filled Radio
+		1 The Fourth Floor
+		1 Wonderland Threshold
+		1 Altar of Samael
+		1 Parasitic Control
+		1 Lisa's Transformation
+		1 Lisa's Diary
+		1 Forgotten Truths
+		1 Alessa, Mother of God
+		1 Samael, Stillborn Incubus
+		1 UFO Ending
+		1 Nightmare's Awakening
+		1 Dahlia, Keeper of the Cult
+		1 Channeling Stone
+		1 Alessa's Diary
+		1 Emissaries of the Void
+		1 Lisa, Undying Healer
+		[UncommonSlot(100)]
+	9 Kaufmann, Cult Healer
+		9 Empty Bird Cage
+		9 Cheryl, Lost in the Fog
+		9 Cybil, Watchful Marshal
+		9 Lisa, Devoted Caretaker
+		9 Diligent Physician
+		9 Soul Seekers
+		9 Healing Ampoule
+		9 Cheryl's Lament
+		9 Fishing with Magnets
+		9 Show of Force
+		9 Harry, Tenacious Finder
+		9 Alessa, Foresight Weaver
+		9 Kaufmann, Veiled Chemist
+		9 Summoned Night Flutter
+		9 Cheryl, Conduit of Echoes
+		9 Cybil, Roaming Enforcer
+		9 Dahlia, Cult Seer
+		9 Revealing Camera
+		9 Dahlia's Scorn
+		9 Pocket Flashlight
+		9 Through the Window
+		9 Never-ending Wail
+		9 Lights Out
+		9 Scrambled Memories
+		9 Broken Wheelchair
+		9 Lisa, Tainted Nurse
+		9 Dahlia, Adept Gyromant
+		9 Locker Mannequin
+		9 Infected Puppet Doctor
+		9 Kaufmann, Enigmatic Apothecary
+		9 Alessa, Mother of Horrors
+		9 Cybil, Tormented Vessel
+		9 The Lizard Story
+		9 Hulking Possessed Doctor
+		9 Disturbing Projection
+		9 Confession Tape
+		9 Ritualistic Axe
+		9 Desk Carvings
+		9 Rise from the Wheelchair
+		9 Trusted Lighter
+		9 Crash Site Realization
+		9 Resort Groaner
+		9 Alessa, Tormented Prodigy
+		9 Lisa, Tormented Carer
+		9 Unnerving Wormhead
+		9 Dahlia, Cultic Visionary
+		9 Harry, Desperate Survivor
+		9 A Splash of Aglaophotis
+		9 Resounding Bells
+		9 Altar's Lighting
+		9 Emergency Hammer
+		9 Salvation Guard
+		9 Concentrated Hydrochloric Acid
+		9 Rusty Screwdriver
+		9 Innocent Cat
+		9 Alessa, Otherworld Emissary
+		9 Cheryl, Sketch Artist
+		9 Harry, Evidence Tracker
+		9 Split Head
+		9 Romper Monstrosity
+		9 Cybil, Protective Officer
+		9 Lisa, Basement Guardian
+		9 Cornering
+		9 Locker Surprise
+		9 Alessa's Fall
+		9 Path to the Lighthouse
+		9 Balkan Church
+		9 Point of No Return
+		9 Mysterious Vial
+		9 Silent Hill Sewers
+		9 Midwich Elementary School
+		9 Lakeside Amusement Park
+		9 Alchemilla Hospital
+		9 Silent Hill Police Station
+		9 Orridge Bridge
+		9 Grey Observer
+		9 Double-Barrel Shotgun
+		9 Police Handgun
+		9 Blood Pack
+		9 Room with Graffiti
+		9 Harry, Unfatigable Father
+		9 Sewer Stalking
+		9 Carousel Horse
+		9 Crossing the Fog
+		9 Nowhere
+		9 The Lighthouse
+		9 Twisting Lies
+		9 Nightmares' Birth
+		9 Schoolyard Presence
+		9 Annie's Bar
+		9 Police Station Chalkboard
+		9 Terramorphic Expanse
+		9 Dahlia, Illuminated
+		9 Alessa, Suffering Existence
+		9 Windswept Harbingers
+		9 Ashen Stalker
+		9 Kaufmann, Cult Puppet
+		9 Channeled UFO
+		9 Stashed Katana
+		[CommonSlot(81)]
+	30 Fog-Shrouded Guardian
+		30 Phantom Pursuers
+		30 Demon Child
+		30 Orderly Apparition
+		30 Lakeside Stalker
+		30 Parkside Haunter
+		30 Grabby Grey Child
+		30 Whispering Resurgence
+		30 Grey Child Horde
+		30 Cunning Stalker
+		30 Alessa's Projection
+		30 Drag to Nowhere
+		30 Rejecting Force Shield
+		30 Steel Pipe
+		30 Disinfecting Alcohol
+		30 Kaufmann's Stance
+		30 Ethereal Screecher
+		30 Mistifying Fog
+		30 Foggy Mirage
+		30 Whiffling Air Screamer
+		30 Morgue Sleeper
+		30 Alessa's Nightmare
+		30 Chasm Entity
+		30 Ghosts from the Past
+		30 Plug the Drain
+		30 Swallowed by the Fog
+		30 Scribblings in the Map
+		30 Personal Inventory
+		30 Harry's Disappearance
+		30 Crossing the Chasm
+		30 Levitating Stalker
+		30 Mumbler's Ambush
+		30 Ritual's Dregs
+		30 Lurking Mumbler
+		30 Blade-Wielding Puppet
+		30 Nowhere Stalker
+		30 Hanging Corpse
+		30 Mumbler Harbinger
+		30 Fogbound Marauder
+		30 Sudden Chasm
+		30 Cybil's Treason
+		30 Sewer Descent
+		30 Hidden in the Dog House
+		30 Shift to the Otherworld
+		30 Otherworld Strength
+		30 Leaving the Possessed Behind
+		30 Hospital Infestation
+		30 Canine Groaner
+		30 Summoned Presence
+		30 Lighthouse Wormhead
+		30 Possessed Puppets
+		30 Ceiling Aberration
+		30 Nurse Abomination
+		30 Incubus' Smite
+		30 Parasitic Sting
+		30 Cracking the Jellybeans
+		30 Sudden Realization
+		30 Moaning Puppet
+		30 Ignite the Vines
+		30 Samael's Searing Mark
+		30 Spitting Creeper
+		30 Hallway Creeper
+		30 Sewer Pest
+		30 Resort Romper
+		30 Pouncing Romper
+		30 Shaker Romper
+		30 Ferocious Hanged Scratcher
+		30 Looming Demon
+		30 Sewer Attack
+		30 Stomp it Down
+		30 Just a Nightmare
+		30 Someone at the Phone
+		30 Overgrown Vine
+		30 Discovery in the Map
+		30 Careless Recollection
+		30 Grey Visitor
+		30 Petty Knife
+		30 Plastic Bottle
+		30 Rusty Pliers
+		30 Breaking the Lock
+		30 Haunting Veil
+		
